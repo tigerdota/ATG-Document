@@ -26,8 +26,5 @@ Y88b  d88P Y88..88P 888  888 Y88b.  888    Y88..88P 888
 Hello, My name is Maulana Rachman
 I am just young programmer
 This is my library just for Self-Study Purposes
-.
-.
-.
-.
-Best Regards,
+
+Best Regards.
