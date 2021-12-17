@@ -21,10 +21,17 @@ Y88b  d88P Y88..88P 888  888 Y88b.  888    Y88..88P 888
                  Y8b d88P                                       
                   "Y88P"     
 
-
-                                                                                            
+  _____          __           __  
+ / ___/__  ___  / /________  / /  
+/ /__/ _ \/ _ \/ __/ __/ _ \/ /   
+\___/\___/_//_/\__/_/  \___/_/    
+    / __/_ _____ / /____ __ _  ___
+   _\ \/ // (_-</ __/ -_)  ' \(_-<
+  /___/\_, /___/\__/\__/_/_/_/___/
+      /___/             
+    
 Hello, My name is Maulana Rachman
-I am just young programmer
-This is my library just for Self-Study Purposes
+If u open this site from handphone 
+just click view code to open document
 
 Best Regards.
