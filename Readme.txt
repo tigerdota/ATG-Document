@@ -9,6 +9,6 @@
     
 Hello, My name is Maulana Rachman
 If u open this site from handphone 
-just click view code to open document
+just click "View code" to open document
 
 Best Regards.
